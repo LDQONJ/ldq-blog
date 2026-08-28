@@ -1071,6 +1071,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
     - <link rel="stylesheet" href="/css/font.css">
+    - <link rel="stylesheet" href="/css/footer.css">
   bottom:
     # - <script src="xxxx"></script>
 
