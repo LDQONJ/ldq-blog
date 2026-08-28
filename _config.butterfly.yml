@@ -67,7 +67,7 @@ disable_top_img: false
 default_top_img: https://picsum.photos/800/500?random
 
 # The banner image of index page
-index_img: https://api.dujin.org/bing/1920.php
+index_img: https://bing.lidaqian.com
 
 # The banner image of archive page
 archive_img:
@@ -167,6 +167,7 @@ subtitle:
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
     - 今日事&#44;今日毕
+    - 下次一定
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
