@@ -1,0 +1,17 @@
+/* 声明本地英文字体 */
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('/fonts/JetBrainsMono-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 声明本地中文字体 */
+@font-face {
+    font-family: 'PingFang SC';
+    src: url('/fonts/PingFangSC-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
