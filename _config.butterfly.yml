@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo: /img/ldq.jpg
+  logo: /img/ldq.png
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
@@ -53,11 +53,11 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/ldq.jpg
+favicon: /img/ldq.png
 
 avatar:
   # img: /img/butterfly-icon.png
-  img: /img/ldq.jpg
+  img: /img/ldq.png
   effect: false
 
 # Disable all banner images
